@@ -1,0 +1,4 @@
+node_modules
+
+.env
+require('dotenv').config({ path: 'ENV_FILENAME' });
